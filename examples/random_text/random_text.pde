@@ -7,7 +7,7 @@ PFont helvetica;
 float angle;
 
 void setup() {
-  size(500, 500, PDF, "type.pdf");
+  size(500, 500, PDF, fileName);
   background(255);
   fill(0);
   
