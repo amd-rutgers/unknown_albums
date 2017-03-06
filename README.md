@@ -1,7 +1,7 @@
 Unknown Albums
 ===============
 
-![Unknown Pleasures]()
+![Unknown Pleasures](https://s3.amazonaws.com/2b.andydayton.com/07/unknown_pleasures.jpg)
 Joy Division, _Unknown Pleasures_
 
 Create album art for a fictional album using Processing. Using the randomization features in Processing, your album art should have at least **2 components that are different every time the album is generated**.
